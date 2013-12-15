@@ -1,4 +1,4 @@
-MyNPR_JS
+myNPR_JS
 ========
 
 Exploring the NPR Story API
